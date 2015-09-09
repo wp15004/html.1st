@@ -1,0 +1,41 @@
+
+body {
+	//background: #00ff00;
+	color: #535353;
+	font-size: 13px;
+	line-height: 1.5;
+}
+h2 {
+	font-size: 185%;
+	border-left: 15px solid #668800;
+	//border-top: 1px solid #000000;
+	padding-left: 10px;
+}
+address{
+	font-size: 85%;
+	font-style: normal;
+	border-top: 1px solid #000000;
+	padding-top: 10px;th
+}
+h3 {
+	font-size: 154%;
+	border: 1px solid #668800;
+	padding: 5px;
+}
+h4 {
+	font-size: 124%;
+}
+table{
+	border: -5px solid #666666;
+	border-collapse: collapse;
+}
+th{
+	border: 1px solid #999999;
+	padding: 10px;
+	background-color: #cccccc;
+}
+td{
+	border: 1px solid #999999;
+	padding: 10px;
+	background-color: #eeeeee;
+}
