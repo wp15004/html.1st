@@ -4,6 +4,17 @@ body {
 	color: #535353;
 	font-size: 13px;
 	line-height: 1.5;
+	text-align: center;
+}
+#wrap{
+	width: 770px;
+	margin: 0 auto;
+	text-align: left;
+}
+.itemphoto{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 50px;
 }
 h2 {
 	font-size: 185%;
@@ -15,12 +26,14 @@ address{
 	font-size: 85%;
 	font-style: normal;
 	border-top: 1px solid #000000;
-	padding-top: 10px;th
+	padding-top: 10px;
+	clear: left;
 }
 h3 {
 	font-size: 154%;
 	border: 1px solid #668800;
 	padding: 5px;
+	clear: left;
 }
 h4 {
 	font-size: 124%;
@@ -38,4 +51,22 @@ td{
 	border: 1px solid #999999;
 	padding: 10px;
 	background-color: #eeeeee;
+}
+ul{
+	background-color: #88aa00;
+	padding: 10px 20px;
+}
+li{
+ 	display: inline;
+	padding-right: 20px;
+}
+li a:link{
+	color: #ffffff;
+}
+li a:visited{
+	color: #eeee00;
+}
+li a:hover{
+	color: #000000;
+	text-decoration: none;
 }
